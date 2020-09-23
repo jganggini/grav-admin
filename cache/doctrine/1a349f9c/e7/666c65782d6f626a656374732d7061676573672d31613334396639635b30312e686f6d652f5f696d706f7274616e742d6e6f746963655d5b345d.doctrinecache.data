@@ -1,0 +1,3 @@
+1600833905
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":566:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"home/_important-notice";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:4:{s:11:"alert_color";s:4:"blue";s:5:"title";s:16:"Important Notice";s:9:"published";b:0;s:7:"visible";b:0;}s:8:"markdown";s:24:"Sample Important Notice
+";}s:7:"storage";a:6:{s:3:"key";s:22:"home/_important-notice";s:11:"storage_key";s:25:"01.home/_important-notice";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1600454427;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"alert";i:1600454427;}}s:8:"checksum";s:32:"108dd941bf7f0d621ee15dd4212f6c52";}}}
