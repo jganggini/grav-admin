@@ -1,4 +1,4 @@
-1600833898
+1600881981
 C:39:"Grav\Common\Flex\Types\Pages\PageObject":1844:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:19:"modular-page-inject";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:7:"Modular";s:9:"published";b:0;s:5:"login";a:1:{s:26:"visibility_requires_access";s:1:"1";}s:6:"access";a:1:{s:4:"site";a:4:{s:6:"client";s:1:"1";s:14:"administrators";s:1:"1";s:10:"registered";s:1:"0";s:8:"provider";s:1:"0";}}s:23:"hide_git_sync_repo_link";b:0;s:12:"body_classes";s:7:"modular";s:11:"onpage_menu";b:0;s:11:"page-inject";a:1:{s:17:"processed_content";b:0;}}s:8:"markdown";s:876:"This is example **modular** page, where where content from module pages of **another page** is displayed using the [Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject).   Each of the below definitions are contained in a separate page, and these pages can be included in multiple areas of the site.
 
 [Text](http://wikieducator.org/OER_Handbook/educator_version_one/Conclusion/Glossary) by [http://wikieducator.org/](http://wikieducator.org/), available under a Creative Commons Attribution 4.0 license.  
@@ -9,4 +9,4 @@ C:39:"Grav\Common\Flex\Types\Pages\PageObject":1844:{a:4:{s:4:"type";s:5:"pages"
 [plugin:content-inject](/modular-page-inject/_cc-by-nc-nd)  
 [plugin:content-inject](/modular-page-inject/_cc-by-nc-sa)  
 [plugin:content-inject](/modular-page-inject/_cc-by-nd)  
-";}s:7:"storage";a:7:{s:3:"key";s:19:"modular-page-inject";s:11:"storage_key";s:22:"05.modular-page-inject";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1600832181;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1600832181;}}s:8:"children";a:6:{s:6:"_cc-by";b:0;s:9:"_cc-by-nc";b:0;s:12:"_cc-by-nc-nd";b:0;s:12:"_cc-by-nc-sa";b:0;s:9:"_cc-by-nd";b:0;s:9:"_cc-by-sa";b:0;}s:8:"checksum";s:32:"27859f412cc3506d707e9aaac5af27b6";}}}
+";}s:7:"storage";a:7:{s:3:"key";s:19:"modular-page-inject";s:11:"storage_key";s:22:"05.modular-page-inject";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1600881161;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1600832181;}}s:8:"children";a:6:{s:6:"_cc-by";b:0;s:9:"_cc-by-nc";b:0;s:12:"_cc-by-nc-nd";b:0;s:12:"_cc-by-nc-sa";b:0;s:9:"_cc-by-nd";b:0;s:9:"_cc-by-sa";b:0;}s:8:"checksum";s:32:"811110d3241d3d097ed0377c374c53f4";}}}
