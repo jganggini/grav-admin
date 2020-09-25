@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/wamp64/www/grav-admin/user/pages/01.home/AD-W20200924-1600-PI5/item.md',
-    'modified' => 1601071465,
+    'modified' => 1601071994,
     'data' => [
         'header' => [
             'title' => 'OAuth 2.0',
@@ -18,7 +18,8 @@ return [
                     0 => 'Arquitectura-Digital',
                     1 => 'PI5',
                     2 => 'Workshop',
-                    3 => 'Integración'
+                    3 => 'Frontend',
+                    4 => 'Integración'
                 ]
             ],
             'header_image_alt_text' => 'Mountains'
@@ -35,6 +36,7 @@ taxonomy:
         - Arquitectura-Digital
         - PI5
         - Workshop
+        - Frontend
         - Integración        
 header_image_alt_text: Mountains',
         'markdown' => '[plugin:youtube](https://youtu.be/6JjPUpfZ8mM)
@@ -44,18 +46,10 @@ header_image_alt_text: Mountains',
 ===
 
 #### Temas
-Temas relacionados al `OAuth 2.0`, Solución para aplicaciones WebApp que no cuentan con base de datos para generar un Login:
+Temas relacionados al `OAuth 2.0`, Solución para aplicaciones WebApp que no cuentan con base de datos para generar un Login para el API Management de Azure:
 * `OAuth 2.0` | Flujo de OAuth 2.0.
 * `Jenkins` | Create AppToken.
 * `OAuth 2.0` | Configuración del Token.
-
-```markdown
-| Name                        | Genre                         | Release date         |
-| :-------------------------- | :---------------------------: | -------------------: |
-| The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
-| Schindler\'s List            | Biography, Drama, History     | 4 February 1994      |
-| Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
-```'
+* `GitHub` | enverionments.{cert/test/prod}.ts'
     ]
 ];

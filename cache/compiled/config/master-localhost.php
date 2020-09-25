@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1600969846,
-    'checksum' => '527147c20bf635309f16045f4bcb56ff',
+    'timestamp' => 1601076894,
+    'checksum' => 'de40cee3c62c3aafaad1bad7ff19ac49',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -139,7 +139,7 @@ return [
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',

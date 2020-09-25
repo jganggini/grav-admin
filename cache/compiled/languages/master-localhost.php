@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1600969849,
-    'checksum' => '0ce28d7a35b3273fe89424bbced3cd8a',
+    'timestamp' => 1601076894,
+    'checksum' => 'ce5b5bb2ab9f920436725aabdc2fef03',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -395,43 +395,43 @@ return [
         'user/plugins/login/languages' => [
             'de' => [
                 'file' => 'user/plugins/login/languages/de.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'en' => [
                 'file' => 'user/plugins/login/languages/en.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'es' => [
                 'file' => 'user/plugins/login/languages/es.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'fr' => [
                 'file' => 'user/plugins/login/languages/fr.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'hr' => [
                 'file' => 'user/plugins/login/languages/hr.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'hu' => [
                 'file' => 'user/plugins/login/languages/hu.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'no' => [
                 'file' => 'user/plugins/login/languages/no.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'ro' => [
                 'file' => 'user/plugins/login/languages/ro.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'ru' => [
                 'file' => 'user/plugins/login/languages/ru.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ],
             'uk' => [
                 'file' => 'user/plugins/login/languages/uk.yaml',
-                'modified' => 1598998735
+                'modified' => 1601076893
             ]
         ]
     ],

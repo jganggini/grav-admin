@@ -2,12 +2,12 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/wamp64/www/grav-admin/user/plugins/login/blueprints.yaml',
-    'modified' => 1598998735,
+    'modified' => 1601076893,
     'data' => [
         'name' => 'Login',
         'slug' => 'login',
         'type' => 'plugin',
-        'version' => '3.3.5',
+        'version' => '3.3.6',
         'testing' => false,
         'description' => 'Enables user authentication and login screen.',
         'icon' => 'sign-in',
