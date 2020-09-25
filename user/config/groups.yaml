@@ -1,6 +1,0 @@
-registered:
-  access:
-    site:
-      login: true
-  readableName: Registered
-  enabled: true
