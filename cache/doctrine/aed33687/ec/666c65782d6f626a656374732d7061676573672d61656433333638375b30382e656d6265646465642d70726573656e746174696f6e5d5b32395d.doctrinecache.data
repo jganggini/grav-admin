@@ -1,0 +1,3 @@
+1601066141
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":585:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"embedded-presentation";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:21:"Embedded Presentation";s:9:"published";b:0;s:23:"hide_git_sync_repo_link";b:1;}s:8:"markdown";s:50:"[presentation="presentations/placeholder-slides"]
+";}s:7:"storage";a:6:{s:3:"key";s:21:"embedded-presentation";s:11:"storage_key";s:24:"08.embedded-presentation";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1600881532;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1600832181;}}s:8:"checksum";s:32:"a19e28e3731b0babae2db5979d0d1479";}}}

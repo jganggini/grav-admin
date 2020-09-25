@@ -1,0 +1,23 @@
+1601670116
+a:2:{s:7:"content";s:1639:"<div class="grav-youtube">
+    <iframe src="https://www.youtube-nocookie.com/embed/6JjPUpfZ8mM?color=white&iv_load_policy=3&rel=0&showinfo=0&vq=hd1080" frameborder="0" allowfullscreen></iframe>
+</div>
+<blockquote>
+<p>Flujo de OAuth 2.0.</p>
+</blockquote>
+<p>===</p>
+<h2>Body Classes</h2>
+<pre><code class="language-yaml">body_classes: "header-dark header-transparent"</code></pre>
+<p>On a particular page will ensure that page has those options enabled (assuming they are false by default).</p>
+<p>The <code>hero_classes</code> option allows a variety of hero classes to be set dynamically these include:</p>
+<ul>
+<li><code>text-light</code> | <code>text-dark</code> - Controls if the text should be light or dark depending on the content</li>
+<li><code>title-h1h2</code> - Enforced a close matched h1/h2 title pairing</li>
+<li><code>parallax</code> - Enables a CSS-powered parallax effect</li>
+<li><code>overlay-dark-gradient</code> - Displays a transparent gradient which further darkens the underlying image</li>
+<li><code>overlay-light-gradient</code> - Displays a transparent gradient which further lightens the underlying image</li>
+<li><code>overlay-dark</code> - Displays a solid transparent overlay which further darkens the underlying image</li>
+<li><code>overlay-light</code> - Displays a solid transparent overlay which further darkens the underlying image</li>
+<li><code>hero-fullscreen</code> | <code>hero-large</code> | <code>hero-medium</code> | <code>hero-small</code> | <code>hero-tiny</code> - Size of the hero block</li>
+</ul>
+<p>The <code>hero_image</code> should point to an image file in the current page folder.</p>";s:12:"content_meta";N;}

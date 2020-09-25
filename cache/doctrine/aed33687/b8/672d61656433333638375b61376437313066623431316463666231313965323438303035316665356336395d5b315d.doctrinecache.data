@@ -1,0 +1,20 @@
+1601675212
+a:2:{s:7:"content";s:802:"<div class="grav-youtube">
+    <iframe src="https://www.youtube-nocookie.com/embed/lQ0RxYykWaM?color=white&iv_load_policy=3&rel=0&showinfo=0&vq=hd1080" frameborder="0" allowfullscreen></iframe>
+</div>
+<blockquote>
+<p>Responsabilidades de los <code>Líderes Técnicos</code>.</p>
+</blockquote>
+<p>===</p>
+<h4>Temas</h4>
+<p>Temas relacionados a los <code>Lineamientos de Arquitectura Digital</code>:</p>
+<ul>
+<li>Responsabilidades de los <code>Líderes Técnicos</code>.</li>
+</ul>
+<pre><code class="language-markdown">* Crear los repositorios siguiendo la nomenclaturas definidas por AD.
+* Asignar repositorio al Team correspondiente.
+* Asignar permisos al repositorio.</code></pre>
+<ul>
+<li><code>DevOps</code> | Gestión de Ramas.</li>
+<li><code>OAuth 2.0</code> | Configuración del Token.</li>
+</ul>";s:12:"content_meta";N;}

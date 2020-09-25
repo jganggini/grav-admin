@@ -1,0 +1,34 @@
+1601675630
+a:2:{s:7:"content";s:1175:"<div class="grav-youtube">
+    <iframe src="https://www.youtube-nocookie.com/embed/lQ0RxYykWaM?color=white&iv_load_policy=3&rel=0&showinfo=0&vq=hd1080" frameborder="0" allowfullscreen></iframe>
+</div>
+<blockquote>
+<p>Responsabilidades de los <code>Líderes Técnicos</code>.</p>
+</blockquote>
+<p>===</p>
+<h4>Temas</h4>
+<p>Temas relacionados a los <code>Lineamientos de Arquitectura Digital</code>:</p>
+<p>!!!Responsabilidades de los <code>Líderes Técnicos</code>.</p>
+<pre><code class="language-markdown">* Crear los repositorios siguiendo la nomenclaturas definidas por AD.
+* Asignar repositorio al Team correspondiente.
+* Asignar permisos al repositorio.</code></pre>
+<ul>
+<li>
+<p><code>DevOps</code> | Gestión de Ramas.</p>
+</li>
+<li>
+<p><code>GitHub</code>  | Crear la rama master.</p>
+</li>
+<li>
+<p><code>GitHub</code>  | Crear la Rama develop.</p>
+</li>
+<li>
+<p><code>GitHub</code>  | Protección de ramas y activación de regla para Push Force en la rama master (Master/Develop).</p>
+</li>
+<li>
+<p><code>GitHub</code>  | Revisar Pull Request - Merge PR o cerrar PR.</p>
+</li>
+<li>
+<p><code>GitHub</code>  | Taggear los commits de los merges - Master</p>
+</li>
+</ul>";s:12:"content_meta";N;}

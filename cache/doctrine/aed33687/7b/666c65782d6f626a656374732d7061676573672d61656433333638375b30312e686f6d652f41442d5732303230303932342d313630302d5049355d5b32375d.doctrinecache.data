@@ -1,0 +1,12 @@
+1601066131
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1127:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"home/ad-w20200924-1600-pi5";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:9:"OAuth 2.0";s:4:"date";s:16:"23-09-2020 16:00";s:6:"author";s:13:"Tasha Maxwell";s:13:"continue_link";b:1;s:12:"hero_classes";s:63:"text-light title-h1h2 overlay-dark-gradient hero-large parallax";s:8:"taxonomy";a:2:{s:8:"category";a:1:{i:0;s:4:"blog";}s:3:"tag";a:4:{i:0;s:20:"Arquitectura-Digital";i:1;s:8:"Workshop";i:2;s:12:"Integración";i:3;s:3:"PI5";}}s:21:"header_image_alt_text";s:9:"Mountains";}s:8:"markdown";s:258:"[plugin:youtube](https://youtu.be/6JjPUpfZ8mM)
+
+> Flujo de OAuth 2.0.
+===
+# Temas
+
+The `hero_classes` option allows a variety of hero classes to be set dynamically these include:
+
+* `OAuth 2.0` | Flujo de OAuth 2.0.
+* `OAuth 2.0` | Configuración del Token.
+";}s:7:"storage";a:6:{s:3:"key";s:26:"home/ad-w20200924-1600-pi5";s:11:"storage_key";s:29:"01.home/AD-W20200924-1600-PI5";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1601065531;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1601065531;}}s:8:"checksum";s:32:"41377738ff871f29ac157a1e3ea44dcd";}}}

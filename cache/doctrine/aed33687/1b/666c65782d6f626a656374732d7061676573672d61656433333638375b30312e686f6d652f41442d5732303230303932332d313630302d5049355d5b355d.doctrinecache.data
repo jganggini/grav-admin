@@ -1,0 +1,38 @@
+1600970542
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":2713:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"home/ad-w20200923-1600-pi5";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:43:"Creación de Job con CLI Pipeline - Jenkins";s:4:"date";s:16:"22-09-2020 11:00";s:6:"author";s:13:"Tasha Maxwell";s:13:"continue_link";b:1;s:12:"hero_classes";s:63:"text-light title-h1h2 overlay-dark-gradient hero-large parallax";s:8:"taxonomy";a:2:{s:8:"category";a:1:{i:0;s:4:"blog";}s:3:"tag";a:4:{i:0;s:20:"Arquitectura-Digital";i:1;s:8:"Workshop";i:2;s:6:"DevOps";i:3;s:3:"PI5";}}s:21:"header_image_alt_text";s:9:"Mountains";}s:8:"markdown";s:1815:"[plugin:youtube](https://youtu.be/GrBIAuti3bw)
+
+The [Quark theme](https://getgrav.org/downloads/themes) has the ability to allow pages to override some of the default options by letting the user set `body_classes` for any page.  The theme will merge the combination of the defaults with any `body_classes` set. This allows you to easily add hero classes to give your blog post some **bling**.
+
+===
+
+## Body Classes
+
+```yaml
+body_classes: "header-dark header-transparent"
+```
+
+On a particular page will ensure that page has those options enabled (assuming they are false by default).
+
+## Hero Options
+
+The hero template allows some options to be set in the page frontmatter. This is used by the modular `hero` as well as the blog and item templates to provide a more dynamic header.
+
+```yaml
+hero_classes: text-light title-h1h2 parallax overlay-dark-gradient hero-large
+hero_image: road.jpg
+hero_align: center
+```
+
+The `hero_classes` option allows a variety of hero classes to be set dynamically these include:
+
+* `text-light` | `text-dark` - Controls if the text should be light or dark depending on the content
+* `title-h1h2` - Enforced a close matched h1/h2 title pairing
+* `parallax` - Enables a CSS-powered parallax effect
+* `overlay-dark-gradient` - Displays a transparent gradient which further darkens the underlying image
+* `overlay-light-gradient` - Displays a transparent gradient which further lightens the underlying image
+* `overlay-dark` - Displays a solid transparent overlay which further darkens the underlying image
+* `overlay-light` - Displays a solid transparent overlay which further darkens the underlying image
+* `hero-fullscreen` | `hero-large` | `hero-medium` | `hero-small` | `hero-tiny` - Size of the hero block
+
+The `hero_image` should point to an image file in the current page folder.
+";}s:7:"storage";a:6:{s:3:"key";s:26:"home/ad-w20200923-1600-pi5";s:11:"storage_key";s:29:"01.home/AD-W20200923-1600-PI5";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1600969217;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1600969217;}}s:8:"checksum";s:32:"26c6271969e705e977e9cb4d3a7b4c97";}}}

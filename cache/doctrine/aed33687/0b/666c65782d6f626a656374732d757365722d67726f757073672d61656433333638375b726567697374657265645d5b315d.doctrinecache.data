@@ -1,0 +1,2 @@
+1601072069
+C:49:"Grav\Common\Flex\Types\UserGroups\UserGroupObject":350:{a:4:{s:4:"type";s:11:"user-groups";s:3:"key";s:10:"registered";s:8:"elements";a:4:{s:6:"access";a:1:{s:4:"site";a:1:{s:5:"login";b:1;}}s:12:"readableName";s:10:"Registered";s:7:"enabled";b:1;s:9:"groupname";s:10:"registered";}s:7:"storage";a:3:{s:11:"storage_key";s:10:"registered";s:3:"key";s:10:"registered";s:17:"storage_timestamp";i:1600794753;}}}

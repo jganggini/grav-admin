@@ -1,0 +1,5 @@
+1601575928
+a:2:{s:7:"content";s:470:"<p>The <a href="/grav-admin/arquitectura-digital/devops">Quark theme</a> has the ability to allow pages to override some of the default options by letting the user set <kbd>Ctrl + S</kbd> for any page.  The theme will merge the combination of the defaults with any `<kbd>Ctrl + S</kbd> set. This allows you to easily add hero classes to give your blog post some <strong>bling</strong>.</p>
+<p>===</p>
+<h1><strong>CONTROL</strong> Space</h1>
+<h2>Arquitectura Digital</h2>";s:12:"content_meta";N;}
